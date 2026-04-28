@@ -1,2 +1,2 @@
 # Meme-Squad-on-Ice
-An unofficial mod of "Divas on Ice" for the Nintendo Wii.
+This is an unofficial mod of "Divagirls: Divas on Ice" for the Wii, made as a replacement for the deleted "SuperSkating N****** for Wii" mod.
