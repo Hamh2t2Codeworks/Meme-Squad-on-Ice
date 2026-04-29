@@ -31,4 +31,4 @@ If you are using the Dolphin Emulator to run the mod, you can simply load the ga
 **If You Are Running the Game from a USB Loader on Real Hardware:**
 
 1. Download the latest version of the game from the Releases page.
-2. Make sure you have a hard drive
+2. Make sure you have a hard drive formatted as FAT32, then create a "
