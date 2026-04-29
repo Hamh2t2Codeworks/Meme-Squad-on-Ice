@@ -10,6 +10,7 @@ This is an unofficial mod of "Divagirls: Divas on Ice" for the Wii that was made
 
 **For Users Playing on Real Hardware:**
 
+If you are loading the mod from an SD card, please make sure you have a 
 Please note that depending on your Wii model, you may need a modchip, ODE, or homebrewed Wii in order to run the mod. For faster speeds, we recommend copying the game WBFS to an external hard drive formatted as FAT32 and running it
 from a USB loader on your Wii console such as WiiFlow or USB Loader GX.
 
@@ -31,4 +32,6 @@ If you are using the Dolphin Emulator to run the mod, you can simply load the ga
 **If You Are Running the Game from a USB Loader on Real Hardware:**
 
 1. Download the latest version of the game from the Releases page.
-2. Make sure you have a hard drive formatted as FAT32, then create a "
+2. Make sure you have an SD card or hard drive formatted as FAT32, then create a "wbfs" folder on the hard drive/SD card and create another folder inside it named "Meme Squad on Ice [MESQ01]".
+3. Rename the WBFS file you just downloaded to "MESQ01" (the game ID) and place it in the "Meme Squad on Ice" game folder that you created on your hard drive.
+4. 
