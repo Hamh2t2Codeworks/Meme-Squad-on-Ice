@@ -8,6 +8,27 @@ This is an unofficial mod of "Divagirls: Divas on Ice" for the Wii that was made
 
 # System/Hardware Requirements
 
-**For Users Playing on a Real Wii:**
+**For Users Playing on Real Hardware:**
 
-Please note that depending on your Wii model, you may need a modchip, ODE, or homebrewed Wii in order to run the mod.
+Please note that depending on your Wii model, you may need a modchip, ODE, or homebrewed Wii in order to run the mod. For faster speeds, we recommend copying the game WBFS to an external hard drive formatted as FAT32 and running it
+from a USB loader on your Wii console such as WiiFlow or USB Loader GX.
+
+If you are using the Dolphin Emulator to run the mod, you can simply load the game WBFS from your computer.
+
+# How to Set Up the Game
+
+**If You Are Playing Using a Disc on a Real Hardware:**
+
+1. Download the latest version of the game from the Releases page.
+2. If you are planning to run the game from a disc, use WBFS to ISO (available from https://www.wbfstoiso.com) to convert the WBFS file you downloaded to an ISO file.
+   ***!!! MAKE SURE YOU SELECT "Wii GAME ISO" AS THE ISO FORMAT OR YOUR CONSOLE WILL NOT RECOGNIZE THE BURNED DISC !!!***
+4. Prepare a blank DVD-R disc and label it "Meme Squad on Ice" or something similar.
+5. Once the program has finished creating the ISO file, open your preferred disc burning software (I would recommend ImgBurn) and follow the instructions in the software to burn the converted game ISO to disc.
+6. Power on your Wii and insert the disc that you just burned into the console.
+7. Select the Disc Channel on the Wii Menu and wait for the Wii to finish reading the disc.
+8. Once the game banner appears, select the "Start" button to launch the game. You're ready to play!
+
+**If You Are Running the Game from a USB Loader on Real Hardware:**
+
+1. Download the latest version of the game from the Releases page.
+2. Make sure you have a hard drive
