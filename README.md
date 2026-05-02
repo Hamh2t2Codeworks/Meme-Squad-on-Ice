@@ -34,4 +34,5 @@ If you are using the Dolphin Emulator to run the mod, you can simply load the ga
 1. Download the latest version of the game from the Releases page.
 2. Make sure you have an SD card or hard drive formatted as FAT32, then create a "wbfs" folder on the hard drive/SD card and create another folder inside it named "Meme Squad on Ice [MESQ01]".
 3. Rename the WBFS file you just downloaded to "MESQ01" (the game ID) and place it in the "Meme Squad on Ice" game folder that you created on your hard drive.
-4. 
+4. Plug your external hard drive into USB port 0 or 1 on your Wii depending on which one you set in your USB loader's settings.
+5. Power on your Wii, launch your USB loader if needed, and start the game. You're ready to play!
