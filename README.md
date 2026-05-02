@@ -21,7 +21,7 @@ If you are using the Dolphin Emulator to run the mod, you can simply load the ga
 **If You Are Playing Using a Disc on a Real Hardware:**
 
 1. Download the latest version of the game from the Releases page.
-2. If you are planning to run the game from a disc, use WBFS to ISO (available from https://www.wbfstoiso.com) to convert the WBFS file you downloaded to an ISO file.
+2. Use WBFS to ISO (available from https://www.wbfstoiso.com) to convert the WBFS file you downloaded to an ISO file.
    ***!!! MAKE SURE YOU SELECT "Wii GAME ISO" AS THE ISO FORMAT OR YOUR CONSOLE WILL NOT RECOGNIZE THE BURNED DISC !!!***
 4. Prepare a blank DVD-R disc and label it "Meme Squad on Ice" or something similar.
 5. Once the program has finished creating the ISO file, open your preferred disc burning software (I would recommend ImgBurn) and follow the instructions in the software to burn the converted game ISO to disc.
