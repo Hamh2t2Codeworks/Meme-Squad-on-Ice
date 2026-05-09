@@ -36,3 +36,12 @@ If you are using the Dolphin Emulator to run the mod, you can simply load the ga
 3. Rename the WBFS file you just downloaded to "MESQ01" (the game ID) and place it in the "Meme Squad on Ice" game folder that you created on your hard drive.
 4. Plug your external hard drive into USB port 0 or 1 on your Wii depending on which one you set in your USB loader's settings.
 5. Power on your Wii, launch your USB loader if needed, and start the game. You're ready to play!
+
+# Troubleshooting Steps
+
+**My Wii console does not read the game disc I burned and/or gives an error message (e.g. "The game disc could not be read" or "Unable to read the disc") when playing from a disc.**
+- Your Wii model may not support burned discs. You may need to homebrew your Wii or install a modchip in the console in order for the Wii to read the disc.
+- The laser lens in your Wii's disc drive may be faulty or dirty. You may need to replace the drive or clean the lens. If you don't want to replace the drive, run the game from an external HDD or SD card using a USB loader.
+
+**The Wii identifies the game as "DIVAS ON ICE" when selected from the Wii Menu.**
+- This is normal. We are currently working on a solution to change the banner and Wii Menu title.
